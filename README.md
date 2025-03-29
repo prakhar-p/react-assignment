@@ -1,13 +1,17 @@
 # OUTPUT VIDEO
 
-📌 1. Prerequisites
+📌 #1. Prerequisites
 
 Before running the project, ensure the following are installed:
-✅ Node.js (v16 or later) → Download Here
+
+✅ Node.js (v16 or later)
+
 ✅ npm (Comes with Node.js)
 
 Check if installed by running:
+
 node -v
+
 npm -v
 
 📌 2. Clone the Repository

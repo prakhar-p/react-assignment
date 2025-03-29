@@ -14,12 +14,12 @@ node -v
 
 npm -v
 
-📌 2. Clone the Repository
+# Clone the Repository
 
 git clone https://github.com/.........
 
 
-#3. Install Dependencies
+# Install Dependencies
 
 Run this command to install all required dependencies:
 
@@ -28,7 +28,7 @@ npm install
 This will download all necessary libraries like React, React Router, Axios, and Toastify etc.
 
 
-#4. Start the Development Server
+# Start the Development Server
 
 To run the project in a local environment:
 
@@ -37,7 +37,7 @@ npm start
 This will open http://localhost:3000 in the browser.
 
 
-#5. Login Credentials (For Testing)
+# Login Credentials (For Testing)
 
 Since this project uses Reqres API, provide the test login credentials:
 
@@ -46,7 +46,7 @@ Email: eve.holt@reqres.in
 Password: cityslicka
 
 
-#6. Features & Testing Instructions
+# Features & Testing Instructions
 
 🔹 Login Page: Enter email & password → Click Login
 

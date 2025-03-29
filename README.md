@@ -1,6 +1,7 @@
 # OUTPUT VIDEO
 
 📌 1. Prerequisites
+
 Before running the project, ensure the following are installed:
 ✅ Node.js (v16 or later) → Download Here
 ✅ npm (Comes with Node.js)

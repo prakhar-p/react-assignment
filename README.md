@@ -1,6 +1,6 @@
 # OUTPUT VIDEO
 
-#1. Prerequisites
+# Prerequisites
 
 Before running the project, ensure the following are installed:
 
